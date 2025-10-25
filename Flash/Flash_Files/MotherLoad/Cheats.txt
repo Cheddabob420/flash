@@ -1,0 +1,9 @@
+ Here are some cheatcodes you can use (type in the options menu when the game starts):
+blingbling - Adds $100,000 to your total cash.
+supersize - Levels up the Cargobay.
+penetrable - Levels up the Hull.
+warp9 - Levels up the Engine.
+toocool - Levels up the Radiator.
+guzzle - Levels up the Fuel Tank.
+digdug - Levels up the Drill.
+ntouchable - Gives you the best level equipment for your AATV and 99x of all items.
